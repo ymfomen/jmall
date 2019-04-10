@@ -6,7 +6,13 @@
       <module fileurl="file://$PROJECT_DIR$/jmall-bean/jmall-bean.iml" filepath="$PROJECT_DIR$/jmall-bean/jmall-bean.iml" />
       <module fileurl="file://$PROJECT_DIR$/jmall-interface/jmall-interface.iml" filepath="$PROJECT_DIR$/jmall-interface/jmall-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/jmall-parent/jmall-parent.iml" filepath="$PROJECT_DIR$/jmall-parent/jmall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-bean/mall-bean.iml" filepath="$PROJECT_DIR$/mall-bean/mall-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-interface/mall-interface.iml" filepath="$PROJECT_DIR$/mall-interface/mall-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-parent.iml" filepath="$PROJECT_DIR$/mall-parent/mall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-service-util/mall-service-util.iml" filepath="$PROJECT_DIR$/mall-service-util/mall-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-usermanage/mall-usermanage.iml" filepath="$PROJECT_DIR$/mall-usermanage/mall-usermanage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-web-util/mall-web-util.iml" filepath="$PROJECT_DIR$/mall-web-util/mall-web-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mallcommonutil/mallcommonutil.iml" filepath="$PROJECT_DIR$/mallcommonutil/mallcommonutil.iml" />
     </modules>
   </component>
 </project>
